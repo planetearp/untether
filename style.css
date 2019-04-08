@@ -1,0 +1,42 @@
+
+
+body {
+    background-image: url(./img/untethered2.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: "Muli";
+}
+
+h1.display-4 {
+    color: whitesmoke;
+    font-family: "Muli";
+    font-weight: 500;
+}
+
+h4 {
+    color: #f7e2a4;
+    font-weight: 200;
+    font-style: italic;
+}
+
+
+div#content {
+    text-align: center;
+    padding-top: 10%;
+    text-shadow: 0px 0px 3px #f8f0d7;
+    text-shadow: 0px 4px 3px rgba(0,0,0,0.2),
+                 0px 8px 15px rgba(0,0,0,0.1),
+                 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+
+#mainNavbar .navbar-brand {
+    color: whitesmoke;
+}
+
+hr {
+    width: 400px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}
